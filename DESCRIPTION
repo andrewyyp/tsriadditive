@@ -1,8 +1,8 @@
 Package: tsriadditive
-Title: Two stage residual inclusion additive hazards estimator
-Version: 0.0.0.9000
+Title: Two Stage Residual Inclusion Additive Hazards Estimator
+Version: 1.0.0
 Authors@R: person("Andrew", "Ying", email = "aying9339@gmail.com", role = c("aut", "cre"))
-Description: This package can fit the tsri estimator in both survival and competing risks setting, with prediction and variance estimate.
+Description: Programs for A.Ying, R. Xu and J. Murphy. 'Two-Stage Residual Inclusion under the Additive Hazards Model - An Instrumental Variable Approach with Application to SEER-Medicare Linked Data.' Statistics in Medicine, to appear, 2018.
 Depends: R (>= 3.5.0)
 Imports: survival
 License: LGPL (>= 2)
